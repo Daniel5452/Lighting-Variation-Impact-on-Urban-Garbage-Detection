@@ -1,6 +1,6 @@
 # Large datasets - ignore to avoid pushing to GitHub
-blurred_images_all/
-privacy_labels/
+GIGO/blurred_images_all/
+GIGO/privacy_labels/
 
 # Image files
 *.jpg
